@@ -1,0 +1,7 @@
+{
+  "name": "anrag",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
